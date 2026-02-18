@@ -1,0 +1,16 @@
+# Jekyll theme configuration for GitHub Pages
+
+theme: minima
+
+# If you want a custom title
+title: Your Site Title
+
+# Custom description
+description: A brief description of your site
+
+# Twitter username for sharing
+social:
+  twitter: your_twitter_username
+
+# URL of your site
+url: "https://yourdomain.com"
